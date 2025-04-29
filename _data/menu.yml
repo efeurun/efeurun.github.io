@@ -1,19 +1,13 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: tidbit insights into game design, reviews & game making
 
   - title: all posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive AAA...
+      show_more_text: See archive...
       show_more_url: archive.html
 
   - title: posts by category
@@ -23,16 +17,21 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
+  - title: socials
+    entries:
+        entries:
+          - title: github
+            url: https://github.com/efeurun
+          - title: discord
+            url: https://discord.gg/BDEtmKmbTv
+          - title: twitter
+            url: https://x.com/efue17
+          - title: linkedin
+            url: https://www.linkedin.com/in/efe-%C3%BCr%C3%BCn/
+          - title: backloggd
+            url: https://backloggd.com/u/efenigma/
+          - title: itch.io
+            url: https://efenigma.itch.io/
+
   - title: rss
     url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
