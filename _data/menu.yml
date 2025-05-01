@@ -24,7 +24,7 @@ entries:
             url: https://efenigma.itch.io/
 
   - title: about & contact
-    url: feed.xml
+    url: about
 
   - title: rss
     url: feed.xml
