@@ -1,12 +1,19 @@
 entries:
-  - title: tidbit insights into game design, reviews & game making
+  - title: stuff about game development & design
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+#  - title: all posts
+#    post_list:
+#      limit: 5
+#      show_more: true
+#      show_more_text: See archive...
+#      show_more_url: archive.html
+
+  - title: projects
+    entries:
+          - title: dnai
+            url: https://efenigma.com/dnai.html
+          - title: dark noctis games
+            url: https://darknoctis.com/
 
   - title: socials
     entries:
