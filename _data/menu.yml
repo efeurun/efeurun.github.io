@@ -19,14 +19,14 @@ entries:
     entries:
           - title: github
             url: https://github.com/efeurun
-          - title: twitter
-            url: https://x.com/efenigma17
+          # - title: twitter
+          #  url: https://x.com/efenigma17
           - title: linkedin
             url: https://www.linkedin.com/in/efe-%C3%BCr%C3%BCn/
           - title: backloggd
             url: https://backloggd.com/u/efenigma/
-          - title: itch.io
-            url: https://efenigma.itch.io/
+          # - title: itch.io
+          #  url: https://efenigma.itch.io/
 
   - title: about & contact
     url: about
