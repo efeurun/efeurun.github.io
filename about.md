@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-# About & Contact
-
 Hi, feel free to reach out to me:
 
 - 📧 Email: [efeurun@gmail.com](mailto:efeurun@gmail.com)
