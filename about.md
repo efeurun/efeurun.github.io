@@ -5,15 +5,13 @@ title: About
 
 # About & Contact
 
-Hi! I'm **Efe**, thank you for taking your time to check out my page.
-
-Feel free to reach out to me:
+Hi, feel free to reach out to me:
 
 - 📧 Email: [efeurun@gmail.com](mailto:efeurun@gmail.com)
 
 ## Socials
 
-Come say hi or follow me on these platforms — they’re a bit lonely for now, but I’ve got big plans!
+Feel free to come say hi or follow me on these platforms:
 
 - 🐙 [GitHub](https://github.com/efeurun)
 - 💬 [Discord](https://discord.gg/BDEtmKmbTv)

@@ -10,10 +10,10 @@ entries:
 
   - title: projects
     entries:
-          - title: dnai
-            url: https://efenigma.com/dnai.html
           - title: dark noctis games
             url: https://darknoctis.com/
+          - title: old projects
+            url: archivedProjects
 
   - title: socials
     entries:
