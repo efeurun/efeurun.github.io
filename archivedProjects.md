@@ -3,8 +3,6 @@ layout: page
 title: Old Projects
 ---
 
-# Projects
-
 - 🎮 [**Rift Keeper**](https://store.steampowered.com/app/843360/Rift_Keeper/)  
 A fast-paced roguelite platformer with pixel art style and challenging gameplay.
 
