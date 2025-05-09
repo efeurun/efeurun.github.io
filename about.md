@@ -3,13 +3,13 @@ layout: page
 title: About & Contact
 ---
 
-Hi, feel free to reach out to me:
+Hi, you can reach out to me via:
 
 - 📧 Email: [efeurun@gmail.com](mailto:efeurun@gmail.com)
 
 ## Socials
 
-Feel free to come say hi or follow me on these platforms:
+Feel free to come say hi or follow me on these platforms!
 
 - 🐙 [GitHub](https://github.com/efeurun)
 <!-- - 🐦 [Twitter / X](https://x.com/efenigma17) -->
