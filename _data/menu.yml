@@ -8,13 +8,15 @@ entries:
 #      show_more_text: See archive...
 #      show_more_url: archive.html
 
-  - title: notable projects
+  - title: projects
     entries:
           - title: dark noctis games (tba)
-          - title: notable projects
-            url: archivedProjects
+          - title: frymore games
+            url: frymoreGames
           - title: howlongtomakeit.com
             url: https://howlongtomakeit.com/
+          - title: other notable projects
+            url: otherNotableProjects
 
   - title: socials
     entries:
