@@ -8,11 +8,10 @@ entries:
 #      show_more_text: See archive...
 #      show_more_url: archive.html
 
-  - title: personal projects
+  - title: notable projects
     entries:
-          - title: dark noctis games
-            url: https://darknoctis.com/
-          - title: old projects
+          - title: dark noctis games (tba)
+          - title: notable projects
             url: archivedProjects
           - title: howlongtomakeit.com
             url: https://howlongtomakeit.com/
