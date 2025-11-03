@@ -22,6 +22,8 @@ entries:
     entries:
           - title: github
             url: https://github.com/efeurun
+          - title: discord
+            url: https://discord.gg/BDEtmKmbTv
           # - title: twitter
           #  url: https://x.com/efenigma17
           - title: linkedin
