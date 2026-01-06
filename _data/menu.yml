@@ -51,13 +51,13 @@ entries:
           - title: discord
             url: https://discord.gg/BDEtmKmbTv
           - title: twitter
-           url: https://x.com/efenigma17
+            url: https://x.com/efenigma17
           - title: linkedin
             url: https://www.linkedin.com/in/efe-%C3%BCr%C3%BCn/
           - title: backloggd
             url: https://backloggd.com/u/efenigma/
           - title: itch.io
-           url: https://efenigma.itch.io/
+            url: https://efenigma.itch.io/
 
   - title: about & contact
     url: about
