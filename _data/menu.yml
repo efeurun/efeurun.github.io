@@ -12,8 +12,6 @@ entries:
                 url: https://apps.apple.com/tr/app/dopiverse-play-learn/id6443942659
           - title: kargast (frymore games)
             entries:
-              - title: steam
-                url: https://store.steampowered.com/app/1332730/Kargast/
               - title: playstation
                 url: https://store.playstation.com/en-us/product/UP5155-PPSA05811_00-KARGAST000000000
               - title: xbox
@@ -22,8 +20,6 @@ entries:
                 url: https://www.nintendo.com/us/store/products/kargast-switch/
           - title: rift keeper (frymore games)
             entries:
-              - title: steam
-                url: https://store.steampowered.com/app/843360/Rift_Keeper/
               - title: playstation
                 url: https://store.playstation.com/en-us/product/UP1675-CUSA15367_00-SYPS4RIFTKEEPER0
               - title: xbox
@@ -64,4 +60,11 @@ entries:
 
   - title: rss
     url: feed.xml
-  - title: "hello, i'm efe. i've been creating games for over 10 years now. during that time, i've had the chance to work on a variety of projects, ranging from console to mobile, and mmo to single-player games. i'm using this page to catalog some of those projects. thank you for visiting!"
+
+  - title: |
+      hello, i'm efe. i've been creating games for over 10 years now.
+      
+      during that time, i've had the chance to work on a variety of projects,
+      ranging from console to mobile, and mmo to single-player games.
+      
+      i'm using this page to catalog some of those projects. thank you for visiting!
