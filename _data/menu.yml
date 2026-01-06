@@ -1,22 +1,48 @@
 entries:
   - title: things I build, break, and sometimes finish
 
-#  - title: all posts
-#    post_list:
-#      limit: 5
-#      show_more: true
-#      show_more_text: See archive...
-#      show_more_url: archive.html
-
-  - title: projects
+  - title: notable projects
     entries:
-          - title: dark noctis games (tba)
-          - title: frymore games
-            url: frymoreGames
+          - title: coal duty (corecrew games) - upcoming
+          - title: dopiverse (doping technology)
+            entries:
+              - title: google play
+                url: https://play.google.com/store/apps/details?id=com.dopiverse.app&hl=en
+              - title: app store
+                url: https://apps.apple.com/tr/app/dopiverse-play-learn/id6443942659
+          - title: kargast (frymore games)
+            entries:
+              - title: steam
+                url: https://store.steampowered.com/app/1332730/Kargast/
+              - title: playstation
+                url: https://store.playstation.com/en-us/product/UP5155-PPSA05811_00-KARGAST000000000
+              - title: xbox
+                url: https://www.xbox.com/en-us/games/store/kargast/9p28374jcmp6
+              - title: nintendo switch
+                url: https://www.nintendo.com/us/store/products/kargast-switch/
+          - title: rift keeper (frymore games)
+            entries:
+              - title: steam
+                url: https://store.steampowered.com/app/843360/Rift_Keeper/
+              - title: playstation
+                url: https://store.playstation.com/en-us/product/UP1675-CUSA15367_00-SYPS4RIFTKEEPER0
+              - title: xbox
+                url: https://www.xbox.com/en-us/games/store/rift-keeper/9p8fpmcf5x1f
+              - title: nintendo switch
+                url: https://www.nintendo.com/us/store/products/rift-keeper-switch/
+              - title: physical copy
+                url: https://www.redartgames.com/games/271-rift-keeper-ps4-pre-order.html
+          - title: firewood (frymore games)
+            entries:
+              - title: steam
+                url: https://store.steampowered.com/app/615180/Firewood/
+
+  - title: other projects
+    entries:
           - title: howlongtomakeit.com
             url: https://howlongtomakeit.com/
-          - title: other notable projects
-            url: otherNotableProjects
+          - title: archived projects
+            url: otherProjects
 
   - title: socials
     entries:
@@ -24,17 +50,18 @@ entries:
             url: https://github.com/efeurun
           - title: discord
             url: https://discord.gg/BDEtmKmbTv
-          # - title: twitter
-          #  url: https://x.com/efenigma17
+          - title: twitter
+           url: https://x.com/efenigma17
           - title: linkedin
             url: https://www.linkedin.com/in/efe-%C3%BCr%C3%BCn/
           - title: backloggd
             url: https://backloggd.com/u/efenigma/
-          # - title: itch.io
-          #  url: https://efenigma.itch.io/
+          - title: itch.io
+           url: https://efenigma.itch.io/
 
   - title: about & contact
     url: about
 
   - title: rss
     url: feed.xml
+  - title: "hello, i'm efe. i've been creating games for over 10 years now. during that time, i've had the chance to work on a variety of projects, ranging from console to mobile, and mmo to single-player games. i'm using this page to catalog some of those projects. thank you for visiting!"
