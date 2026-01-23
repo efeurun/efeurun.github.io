@@ -3,7 +3,10 @@ entries:
 
   - title: notable projects
     entries:
-          - title: coal duty (corecrew games) - upcoming
+          - title: coal duty (corecrew games) - can be wishlisted on
+            entries:
+              - title: steam
+                url: https://store.steampowered.com/app/4272370/Coal_Duty/
           - title: dopiverse (doping technology)
             entries:
               - title: google play
