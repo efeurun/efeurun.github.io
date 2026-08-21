@@ -1,10 +1,10 @@
-title: efenigma # name of the site
+title: Efe Urun # name of the site
 author: Efe Ürün # name of site's author
 email: efeurun@gmail.com # email of site's author
 url: https://efenigma.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  efe ürün — game developer of 10+ years. find my socials and contact info here.
+  Efe Urun — senior gameplay engineer (Unity) and technical game designer. 10+ years shipping titles across PC, console, and mobile.
 
 permalink: /:slug.html
 

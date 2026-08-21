@@ -2,3 +2,17 @@
 ---
 
 @import "no-style-please";
+
+// The theme sets `max-width: 100%` on images but never `height: auto`, so an
+// <img> carrying intrinsic width/height attributes keeps its full declared
+// height while the artwork scales down — letterboxing it inside a too-tall box.
+img { height: auto; }
+
+// Role line under the site title: smaller than the h1, larger than body copy,
+// and pulled up tight so it reads as a subtitle rather than a paragraph.
+header h1 { margin-bottom: 0; }
+
+.tagline {
+  font-size: 1.25rem;
+  margin-top: 0.4rem;
+}
