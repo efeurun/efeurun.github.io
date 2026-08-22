@@ -8,3 +8,6 @@ _site
 vendor
 Gemfile.lock
 .jektex-cache
+NewStuff.txt
+rift_keeper_ss.jpg
+serve.ps1
