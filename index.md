@@ -37,14 +37,14 @@ platforms: [website](https://www.dopiverse.com/) · [app store](https://apps.app
 
 ### kargast
 
-<a href="https://www.xbox.com/en-US/games/store/kargast/9P28374JCMP6"><img src="{{ "/assets/img/kargast.jpg" | relative_url }}" alt="kargast key art" width="1280" height="200" loading="lazy"></a>
+<a href="https://tophat.studio/games_kargast.html"><img src="{{ "/assets/img/kargast.jpg" | relative_url }}" alt="kargast key art" width="1280" height="200" loading="lazy"></a>
 
 a dark narrative exploration rpg featuring surreal environments, turn-based combat, branching endings, and a semi-satirical approach to storytelling.
 
 - Crystal Pixel 2021 Best Experimental Game
 - released across pc, playstation, xbox, and nintendo switch
 
-platforms: pc, playstation — [xbox](https://www.xbox.com/en-US/games/store/kargast/9P28374JCMP6) · [switch](https://www.nintendo.com/us/store/products/kargast-switch/)
+platforms: pc, playstation — [xbox](https://tophat.studio/games_kargast.html) · [switch](https://tophat.studio/games_kargast.html)
 
 ### rift keeper
 
