@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<p class="tagline">Senior Gameplay Engineer (Unity) &amp; Technical Game Designer</p>
+<p class="tagline">Senior Gameplay Engineer</p>
 
 Senior Unity game developer with 10+ years of experience shipping titles across PC, console, and mobile. Specialized in multiplayer architecture, gameplay systems, and performance optimization, with titles released on Steam, PlayStation, Xbox, Nintendo Switch, and iOS/Android, including award-winning games and a title with over 1,000,000 downloads.
 
