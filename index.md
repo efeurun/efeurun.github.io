@@ -15,7 +15,7 @@ Senior Unity game developer with 10+ years of experience shipping titles across 
 a 1-5 player co-op extraction horror-comedy set in a frozen dystopian world. players descend into procedurally generated mines, meet the state's coal quota, survive the creatures below, and work together to plan their escape.
 
 - 1st place at Deep Jam, selected from 1,000+ participating projects
-- over 30,000 Steam wishlists ahead of launch
+- over 40,000 Steam wishlists before Early Access launch
 
 platforms: [steam](https://store.steampowered.com/app/4272370/Coal_Duty/)
 
